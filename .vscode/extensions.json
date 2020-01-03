@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"tlent.jest-snapshot-language-support"
+	],
+	"unwantedRecommendations": [
+		
+	]
+}
