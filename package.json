@@ -88,7 +88,7 @@
     "jest": "24.9.0",
     "lerna": "3.17.0",
     "lint-staged": "9.4.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "md-node-inject": "1.0.0",
     "open-cli": "5.0.0",
     "patch-package": "6.2.0",
